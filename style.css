@@ -1,0 +1,53 @@
+.esas {
+    width: 300px;
+    background-color: grey;
+    margin: auto;
+    transform: translateY(-100px);
+    display: none;
+  }
+  .card {
+    border: 1px solid rgb(43, 43, 72);
+    color: white;
+    background-color: rgb(86, 86, 230);
+    border-radius: 5px;
+    padding: 5px 6px;
+    cursor: pointer;
+  
+  }
+  
+  .item1 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    padding: 10px;
+  }
+  
+  .item2 {
+    padding: 10px;
+    border-bottom: 1px solid black;
+  }
+  
+  .item3 {
+    padding: 10px;
+    text-align: right;
+  }
+  
+  h3 {
+    margin: 0;
+  }
+  
+  .close {
+    padding: 0px 10px;
+    border: 0;
+    background-color: grey;
+    cursor: pointer;
+    font-weight: bolder;
+  }
+  
+  .button:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+  }
+  
+  
